@@ -3,10 +3,10 @@
 # Business Problem:
 This Road Accident Dashboard for the year 2021-2022 fulfills the following requirements for Stakeholders:
 1) Primary KPIs:
-2) i) Total Casualties and Total accident values for Current year and YoY growth.
-3) ii) Total Casualties by accident severity for Current year and YoY growth.
+Total Casualties and Total accident values for Current year and YoY growth.
+Total Casualties by accident severity for Current year and YoY growth.
 4) Secondary KPIs:
-5) Total Casualties with respect to vehicle type for Current year.
+ Total Casualties with respect to vehicle type for Current year.
 6) Montly trend showing comparison of casualties for Current year and previous year
 7) Casualties by road type for current year.
 8) Current year casualties by Area/Location & by Day/Night
